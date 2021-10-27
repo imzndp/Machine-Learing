@@ -1,1 +1,1 @@
-Complete machine learning path from basic to advance .
+Complete machine learning from basic to advance .
